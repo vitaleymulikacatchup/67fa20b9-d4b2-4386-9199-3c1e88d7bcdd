@@ -64,7 +64,6 @@ export default function Home() {
             { items: [{ label: 'Contact', onClick: () => {} }, { label: 'Privacy Policy', onClick: () => {} }] }  
           ]}
           logoText="PawPup MemeCoin"
-          onPrivacyClick={() => {}}
         />
       </div>
     </SiteThemeProvider>
